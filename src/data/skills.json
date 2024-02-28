@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "name": "Redux"
+    },
+    {
+        "id": 1,
+        "name": "Lodash"
+    },
+    {
+        "id": 2,
+        "name": "Ant design"
+    },
+    {
+        "id": 3,
+        "name": "Webpack"
+    },
+    {
+        "id": 4,
+        "name": "Other"
+    }
+]
